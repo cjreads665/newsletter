@@ -14,8 +14,8 @@ html {
 body{
     text-transform: capitalize;
     font-family: 'Baloo 2', cursive;
-    height: 100%;
-    overflow-x: hidden;
+    /* height: 100%; */
+    /* overflow-x: hidden; */
 }
 :root{
     --circle-1: #ff449f;
