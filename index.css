@@ -118,10 +118,11 @@ body{
         #cta form{
             position: relative;
             bottom: -2rem;
+            display: block;
         }
         #email{
             width: 70%;
-            display: block;
+            /* display: block; */
         }
         #btn{
             width: 25%;
